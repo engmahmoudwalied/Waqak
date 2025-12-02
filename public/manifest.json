@@ -1,0 +1,17 @@
+{
+  "name": "Waqeak Connect Hub",
+  "short_name": "Waqeak",
+  "description": "Professional programming and web development services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#001a66",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
